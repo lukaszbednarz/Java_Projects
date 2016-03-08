@@ -1,0 +1,4 @@
+Bug|Android|Total needs formatting to two significant decimal places|true
+Feature|iPad|Add geolocation to contact record|false
+Feature|JSP|Add single sign-on logic|false
+Bug|Blackberry|Keyboard issue|true
